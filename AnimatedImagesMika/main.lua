@@ -12,7 +12,7 @@ display.setStatusBar(display.hiddenStatusBar)
 scrollSpeed = 3
 
 -- background image with width and height
-local backgroundImage = display.newImageRect("Image/ocean.jpg". 2048, 1536)
+local backgroundImage = display.newImageRect("Image/ocean.jpg" 2048, 1536)
 
 --character image with width height
 local waluigi
